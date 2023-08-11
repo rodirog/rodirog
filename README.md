@@ -1,4 +1,8 @@
-### Hi, I'm Rodrigo :)
+
+![Black Technology LinkedIn Banner (1)](https://github.com/rodirog/rodirog/assets/101756238/215e6571-d674-4096-9873-446f62219f57)
+
+
+
 
 - 🔭 I’m a web developer
 - ⚡ I’m pursuing a Bachelor's degree in Information Systems at UFSC
