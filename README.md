@@ -1,5 +1,6 @@
 
-![Black Technology LinkedIn Banner (1)](https://github.com/rodirog/rodirog/assets/101756238/215e6571-d674-4096-9873-446f62219f57)
+
+![Blue Modern Gradient Technology LinkedIn Banner (2)](https://github.com/rodirog/rodirog/assets/101756238/563e7688-0082-43ae-871e-ad3693dbfb2e)
 
 
 
