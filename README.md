@@ -19,7 +19,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)
 
-##  Social Link
+### Social Link
 <a href="https://www.linkedin.com/in/rodrigo-reis-da-silva/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="E-mail"/>
 </a> 
