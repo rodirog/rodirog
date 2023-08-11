@@ -7,7 +7,7 @@
 
 - 🔭 I’m a web developer
 - ⚡ I’m pursuing a Bachelor's degree in Information Systems at UFSC
-- 🚀 I’m currently studying Web Development at [Rocketseat](https://www.rocketseat.com.br/)  
+- 🚀 Currently studying Web Development at [Rocketseat](https://www.rocketseat.com.br/)  
 
 ## 🛠️ Tech Stack
 
