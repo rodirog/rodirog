@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m a web developer
+- 🔭 I’m a software developer
 - ⚡ I’m pursuing a Bachelor's degree in Information Systems at UFSC
-- 🚀 Currently studying Web Development at [Rocketseat](https://www.rocketseat.com.br/)  
+- 🚀 Developer at [Pixel - Soluções Digitais](https://ejpixel.com.br/)
 
 ## 🛠️ Tech Stack
 
