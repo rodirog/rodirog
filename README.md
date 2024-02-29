@@ -4,10 +4,8 @@
 
 
 
-
-- 🔭 I’m a software developer
+- 🚀 Software Developer at [Pixel - Soluções Digitais](https://ejpixel.com.br/)
 - ⚡ I’m pursuing a Bachelor's degree in Information Systems at UFSC
-- 🚀 Developer at [Pixel - Soluções Digitais](https://ejpixel.com.br/)
 
 ### Social Link
 <a href="https://www.linkedin.com/in/rodrigo-reis-da-silva/" target="_blank">
