@@ -4,7 +4,7 @@
 
 
 
-- 🚀 Software Developer at [Pixel - Soluções Digitais](https://ejpixel.com.br/)
+- 🚀 Software Engineer at [Pixel - Soluções Digitais](https://ejpixel.com.br/)
 - ⚡ I’m pursuing a Bachelor's degree in Information Systems at UFSC
 
 ### Social Link
